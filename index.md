@@ -40,7 +40,7 @@ https://www.ed.ac.uk/is/data-training
 
 ## Materials
 
-PowerPoint slides can be found [here]()  
+PowerPoint slides can be found [here](https://github.com/BioRDM/SBS-Staff-Induction-2022/blob/gh-pages/SBS_Staff_Induction-Working_with_data-V1.0.pptx)  
 *Click download button to get the file*
 
 ### Practical recipes and guides:
